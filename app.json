@@ -1,0 +1,13 @@
+{
+  "pages":[
+    "pages/orange/orange",
+    "pages/post/post",
+    "pages/post-detail/post-detail"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#ecc0a8",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle":"black"
+  }
+}

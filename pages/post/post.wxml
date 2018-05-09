@@ -1,0 +1,8 @@
+<!--pages/post/post.wxml-->
+<view>
+  <block wx:for="{{postList}}" wx:for-item="item" wx:for-index="idx">
+    <view class='title' catchtap='onTapToDetail' data-id="{{item.objectId}}">
+      <text>{{item.title}}</text>
+    </view>
+  </block>
+</view>

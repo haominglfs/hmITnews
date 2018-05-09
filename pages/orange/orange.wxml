@@ -1,0 +1,9 @@
+<!--pages/orange/orange.wxml-->
+<view class='container'>
+  <image class='avatar' src='/images/avatar/avatar-1.png'></image>
+  <text class='motto'>你好，小程序</text>
+  <view class='journey-container'>
+    <text class='journey' catchtap='onTapJump'>开启小程序之旅</text>
+  </view>
+</view>
+
